@@ -1,0 +1,63 @@
+{
+  "translation": {
+    "home": {
+      "deseo": "Dream without limits",
+      "trabajo": "Work hard",
+      "logrado": "Make it happen"
+    },
+    "sider": {
+      "gestacceso": "Manage access",
+      "funcionalidad": "Functionality",
+      "rol": "Role",
+      "usuario": "User",
+      "entidad": "Company",
+      "dominio": "Domain",
+      "nomenclador": "Nomenclator",
+      "producto": "Product",
+      "servicio": "Service",
+      "um": "Unit of measure",
+      "salir": "Sing out"
+    },
+    "footer": {
+      "frase": "No dream is too big and no dreamer is too small."
+    },
+    "acciones": {
+      "adicionar": "Add",
+      "modificar": "Modify",
+      "eliminar": "Delete"
+    },
+    "tablarol": {
+      "title": "Roles and permissions list",
+      "addmodaltitle": "Add role",
+      "modmodaltitle": "Modify role",
+      "colrol": "Role",
+      "colaprobar": "Approve",
+      "filtautorizado": "Authorized",
+      "filtdenegado": "Denied"
+    },
+    "tablausuario": {
+      "title": "User list",
+      "addmodaltitle": "Add user",
+      "modmodaltitle": "Modify user",
+      "colusuario": "User",
+      "colrol": "Role"
+    },
+    "idioma": {
+      "selectLanguage": "Language",
+      "es": "Spanish",
+      "en": "English "
+    }, 
+       "modo": {
+      "selectModo": "Mode",
+      "dark": "Dark",
+      "light": "Light "
+    },
+    "formrol":{
+      "ingreserol":"Please enter the role!",
+      "descripcion":"Description"
+    },
+    "formusuario":{
+      "ingreseusuario":"Please enter the user!"
+    }
+  }
+}

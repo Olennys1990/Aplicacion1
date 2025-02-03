@@ -1,0 +1,174 @@
+/* Layou General Styles */
+.layoutgeneral {
+  min-height: 98vh;
+  min-width: 215vh;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 2px;
+  margin-right: 4px;
+}
+
+/* Layou Content Styles */
+.layoutcontent {
+  margin-left: 2px;
+}
+
+/* Footer Styles */
+.footer {
+  text-align: center;
+  font-size: 13px;
+  background-color: #cb1f1f;
+  /*background-color: #ffffff;*/
+}
+.footericon {
+  height: 20px;
+  margin-left: 15px;
+}
+
+/* Header Styles */
+.header {
+  padding: 0;
+  background-color: #88d728;
+  /*background-color: #ffffff;*/
+}
+.idiomaselector {
+  margin-right: 5px;
+}
+.spaceheader {
+  width: 100%;
+}
+.menuheader {
+  margin-left: 100px;
+}
+
+/* Sider Styles */
+.sider {
+  min-height: 98vh;
+}
+.homeitem {
+  font-size: 33px;
+  height: 45px;
+}
+.homeicon {
+  height: 40px;
+}
+
+/* Home Styles */
+.spaceprincipal {
+  margin-left: 8px;
+  margin-top: 8px;
+}
+.homecard {
+  width: 414px;
+  height: 500px;
+}
+.homecartitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.homecardimg {
+  height: 488px;
+  object-fit: cover;
+}
+/*--------------------------------------------------------------------------*/
+/* Tabla Styles */
+.title {
+  font-size: 16px;
+}
+.flextabla {
+  margin: 14px;
+}
+.renderpermitido {
+  color: green;
+}
+.renderdenegado {
+  color: red;
+}
+
+/* Modal Styles */
+
+.ant-modal {
+  border-radius: 8px; /* Bordes redondeados en el modal */
+}
+
+.ant-modal-header {
+  background-color: #1890ff; /* Color de fondo del encabezado del modal */
+  color: white; /* Color del texto del encabezado */
+}
+
+.ant-modal-title {
+  font-size: 18px; /* Tamaño de fuente del título del modal */
+}
+
+.ant-modal-footer {
+  display: flex;
+  justify-content: flex-end; /* Alinea los botones a la derecha */
+}
+
+/* Form Styles */
+.form-container {
+  max-width: 400px; /* Ancho máximo del formulario */
+  margin: 20px auto; /* Centra el formulario en la página */
+  padding: 20px; /* Espaciado interno */
+  background-color: #f9f9f9; /* Fondo claro */
+  border-radius: 8px; /* Bordes redondeados */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+.ant-form-item {
+  margin-bottom: 16px; /* Espaciado entre elementos del formulario */
+}
+
+.ant-input {
+  border-radius: 4px; /* Bordes redondeados en campos de entrada */
+}
+
+.ant-btn {
+  border-radius: 4px; /* Bordes redondeados en botones */
+}
+
+.ant-btn-primary {
+  background-color: #1890ff; /* Color de fondo del botón primario */
+  border-color: #1890ff; /* Color del borde del botón primario */
+}
+
+.ant-btn-default {
+  background-color: #f0f0f0; /* Color de fondo del botón por defecto */
+}
+
+/* FormBtn Styles */
+/* Estilo general para todos los botones */
+.ant-btn {
+  border-radius: 6px; /* Bordes redondeados */
+  font-size: 16px; /* Tamaño de fuente */
+  padding: 10px 20px; /* Espaciado interno */
+  transition: background-color 0.3s ease, transform 0.2s ease; /* Transiciones suaves */
+}
+
+/* Estilo del botón primario (Enviar) */
+.ant-btn-primary {
+  background-color: #1890ff; /* Color de fondo */
+  border-color: #1890ff; /* Color del borde */
+  color: white; /* Color del texto */
+}
+
+.ant-btn-primary:hover {
+  background-color: #40a9ff; /* Color al pasar el mouse */
+  border-color: #40a9ff; /* Color del borde al pasar el mouse */
+  transform: translateY(-2px); /* Efecto de elevación al pasar el mouse */
+}
+
+/* Estilo del botón por defecto (Cancelar) */
+.ant-btn-default {
+  background-color: #f0f0f0; /* Color de fondo */
+  color: #333; /* Color del texto */
+}
+
+.ant-btn-default:hover {
+  background-color: #d9d9d9; /* Color al pasar el mouse */
+}
+
+/* Espaciado entre botones */
+.ant-btn + .ant-btn {
+  margin-left: 8px; /* Margen izquierdo entre botones */
+}

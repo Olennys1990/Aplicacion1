@@ -1,0 +1,63 @@
+{
+  "translation": {
+    "home": {
+      "deseo": "Sueña sin límites",
+      "trabajo": "Trabaja duro",
+      "logrado": "Haz que suceda"
+    },
+    "sider": {
+      "gestacceso": "Gestionar acceso",
+      "funcionalidad": "Funcionalidad",
+      "rol": "Rol",
+      "usuario": "Usuario",
+      "entidad": "Entidad",
+      "dominio": "Dominio",
+      "nomenclador": "Nomenclador",
+      "producto": "Producto",
+      "servicio": "Servicio",
+      "um": "Unidad de medida",
+      "salir": "Salir"
+    },
+    "footer": {
+      "frase": "Ningún sueño es demasiado grande y ningún soñador demasiado pequeño."
+    },
+    "acciones": {
+      "adicionar": "Adicionar",
+      "modificar": "Modificar",
+      "eliminar": "Eliminar"
+    },
+    "tablarol": {
+      "title": "Listado de roles y permisos",
+      "addmodaltitle": "Adicionar rol",
+      "modmodaltitle": "Modificar rol",
+      "colrol": "Rol",
+      "colaprobar": "Aprobar",
+      "filtautorizado": "Autorizado",
+      "filtdenegado": "Denegado"
+    },
+    "tablausuario": {
+      "title": "Listado de usuarios",
+      "addmodaltitle": "Adicionar usuario",
+      "modmodaltitle": "Modificar usuario",
+      "colusuario": "Usuario",
+      "colrol": "Rol"
+    },
+    "idioma": {
+      "selectLanguage": "Idioma",
+      "es": "Español",
+      "en": "Inglés"
+    },
+    "modo": {
+      "selectModo": "Modo",
+      "dark": "Oscuro",
+      "light": "Claro "
+    },
+    "formrol":{
+      "ingreserol":"Por favor ingresa el rol!",
+      "descripcion":"Descripción"
+    },
+    "formusuario":{
+      "ingreseusuario":"Por favor ingresa el usuario!"
+    }
+  }
+}
