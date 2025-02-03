@@ -40,7 +40,7 @@ const MenuSider: React.FC = () => {
           icon={<img src={iconomenu} alt="inicio" className="homeicon" />}
           className="homeitem"
         >
-          <Link to="/home">Axelus</Link>
+          <Link to="/home">Axel</Link>
         </Menu.Item>
 
         <Menu.SubMenu key="gestacceso" title={t("sider.gestacceso")}>
